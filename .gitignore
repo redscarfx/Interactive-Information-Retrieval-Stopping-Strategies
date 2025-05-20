@@ -1,0 +1,8 @@
+*.tsv
+/projet/index/
+/projet/index_big/
+/projet/var/index
+/projet/var/index_big
+/.conda
+/projet/query generation resultats (aquaint)/
+
