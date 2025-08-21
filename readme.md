@@ -15,7 +15,7 @@ L’objectif était de **reproduire et analyser les expériences** du papier de 
 - Explorer et comparer les résultats avec de nouveaux jeux de données et scénarios.
 - Identifier les **requêtes difficiles/faciles** et évaluer l’impact des règles d’arrêt sur la performance.
 
-## 📂 Organisation du projet
+##  Organisation du projet
 Le projet est implémenté dans un notebook Jupyter : [`projet.ipynb`](projet/projet.ipynb).
 
 ### Structure principale
@@ -35,7 +35,7 @@ Le projet est implémenté dans un notebook Jupyter : [`projet.ipynb`](projet/pr
 - La règle **Fixed Depth** constitue un bon baseline et reste robuste.
 - L’analyse des requêtes difficiles vs faciles permet de mieux comprendre les limites des stratégies statiques.
 
-## ⚙ Installation et exécution
+## Installation et exécution
 ### Prérequis
 - Python 3.9+
 - Jupyter Notebook
